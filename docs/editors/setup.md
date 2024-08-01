@@ -380,6 +380,9 @@ bundle for TextMate.
 
 ## Zed
 
+!!! important
+    Ruff `0.5.3` and later is required to use the Ruff extension for Zed.
+
 Ruff is available as an extension for the Zed editor. To install it:
 
 1. Open the command palette with `Cmd+Shift+P`
